@@ -1,0 +1,11 @@
+{
+  "name": "colorcsstohex",
+  "version": "1.0.5",
+  "description": "colorcsstohex is a JavaScript library that provides functions for converting colors between different formats.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "micuit-cuit",
+  "license": "ISC"
+}
