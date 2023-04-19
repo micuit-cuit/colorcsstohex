@@ -4,7 +4,7 @@
 ## Installation
 colorcsstohex can be installed via [npm](https://www.npmjs.com/package/colorcsstohex):
 ```sh
-npm install colorcsstohex
+npm i colorcsstohex
 ```
 ## Usage
 ### `convertColor(color)`
