@@ -10,11 +10,11 @@ npm install colorcsstohex
 ### `convertColor(color)`
 Converts a color from one format to another. The color parameter can be in any of the following formats:
 
-Hexadecimal string (e.g. `"#ff0000"`)
-RGB string (e.g. `"rgb(255, 0, 0)"`)
-HSL string (e.g. `"hsl(0, 100%, 50%)"`)
-Named color string (e.g. `"red"`)
-The function returns a hexadecimal string representing the converted color.
+ - Hexadecimal string (e.g. `"#ff0000"`)
+ - RGB string (e.g. `"rgb(255, 0, 0)"`)
+ - HSL string (e.g. `"hsl(0, 100%, 50%)"`)
+ - Named color string (e.g. `"red"`)
+ - The function returns a hexadecimal string representing the converted color.
 
 Example:
 
